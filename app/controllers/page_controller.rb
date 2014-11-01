@@ -11,4 +11,7 @@ class PageController < ApplicationController
   def about
     @titre = "a Propos"
   end
+  
+  
+  
 end
